@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Password Generator &amp; Manager</string>
+    <string name="generated_password">Generated Password</string>
+    <string name="enter_password_length">Enter Password Length (6–32 characters only)</string>
+    <string name="default_lowercase">*DEFAULT IS LOWERCASE ALPHABETS</string>
+    <string name="include_uppercase">Include Uppercase</string>
+    <string name="include_numbers">Include Numbers</string>
+    <string name="include_symbols"><![CDATA[Include Symbols (!@#$%^&*_)]]></string>
+    <string name="generate_password">Generate Password</string>
+    <string name="save_password">Save Password</string>
+    <string name="open_password_manager">Open Password Manager</string>
+    <string name="title">Title</string>
+    <string name="password">Password</string>
+    <string name="copypassword">copypassword</string>
+    <string name="deletepassword">deletePassword</string>
+    <string name="add_title_or_description">Add Title/Description (Up to 20 characters)</string>
+    <string name="password_to_save">Password to save</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="empty">EMPTY</string>
+</resources>
